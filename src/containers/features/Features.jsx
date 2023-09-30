@@ -3,8 +3,11 @@ import './features.css';
 
 const Features = () => {
     return (
-        <div>
-            Features
+        <div className='gpt3__features section__padding' id='features'>
+            <div className='gtps3__features-heading'>
+                
+
+            </div>
         </div>
     )
 }
